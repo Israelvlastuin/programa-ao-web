@@ -1,0 +1,20 @@
+.div1{
+    border: 2px solid #000000;
+   
+    display:inline;
+}
+.div3{
+    border-radius: 4px;
+    border: 2px solid #000000;
+    display: block;
+}
+.div2{
+    border-radius: 5px;
+    border: 2px solid #000000;
+    display: inline-block;
+}
+.div4{
+    border-radius: 5px;
+    border:2px solid #000000;
+    display:list-item;
+}
